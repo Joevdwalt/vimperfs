@@ -1,4 +1,5 @@
 execute pathogen#infect()
+colorscheme desert
 syntax on
 filetype plugin indent on
 let g:netrw_liststyle=3
